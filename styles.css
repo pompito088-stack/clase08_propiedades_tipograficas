@@ -9,3 +9,7 @@
 .compact{
     line-height: 1;
 }
+
+.italic{
+    font-style: italic;
+}
